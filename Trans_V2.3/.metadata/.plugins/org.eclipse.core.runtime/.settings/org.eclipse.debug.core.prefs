@@ -1,0 +1,3 @@
+#Wed Apr 22 21:36:52 CST 2015
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n<expression enabled\="true" text\="packet[i]"/>\r\n<expression enabled\="true" text\="i"/>\r\n<expression enabled\="true" text\="g_uart_usb1_read_buf[i]"/>\r\n<expression enabled\="true" text\="pca9557_frq"/>\r\n<expression enabled\="true" text\="temp"/>\r\n</watchExpressions>\r\n
+eclipse.preferences.version=1

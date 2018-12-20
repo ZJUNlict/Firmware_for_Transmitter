@@ -1,0 +1,136 @@
+Altera SOPC Builder Version 9.10 Build 222
+Copyright (c) 1999-2009 Altera Corporation.  All rights reserved.
+
+
+No .sopc_builder configuration file(!)
+# 2015.03.17 21:46:19 (*) mk_custom_sdk starting
+# 2015.03.17 21:46:19 (*) Reading project G:/Quartus/transfer_new/TRANS_3.ptf.
+
+# 2015.03.17 21:46:19 (*) Finding all CPUs
+# 2015.03.17 21:46:19 (*) Finding all available components
+# 2015.03.17 21:46:19 (*) Reading G:/Quartus/transfer_new/.sopc_builder/install.ptf
+
+# 2015.03.17 21:46:19 (*) Found 67 components
+
+# 2015.03.17 21:46:20 (*) Finding all peripherals
+
+# 2015.03.17 21:46:20 (*) Finding software components
+
+# 2015.03.17 21:46:20 (*) (Legacy SDK Generation Skipped)
+# 2015.03.17 21:46:20 (*) (All TCL Script Generation Skipped)
+# 2015.03.17 21:46:20 (*) (No Libraries Built)
+# 2015.03.17 21:46:20 (*) (Contents Generation Skipped)
+# 2015.03.17 21:46:20 (*) mk_custom_sdk finishing
+
+# 2015.03.17 21:46:20 (*) Starting generation for system: TRANS_3.
+
+.
+.
+.
+.
+.
+.........
+.
+..
+.......
+..
+
+# 2015.03.17 21:46:22 (*) Running Generator Program for cpu_0
+
+# 2015.03.17 21:46:23 (*) Starting Nios II generation
+# 2015.03.17 21:46:23 (*)   Checking for plaintext license.
+# 2015.03.17 21:46:23 (*)   Plaintext license not found.
+# 2015.03.17 21:46:23 (*)   Checking for encrypted license (non-evaluation).
+# 2015.03.17 21:46:23 (*)   Encrypted license found.  SOF will not be time-limited.
+# 2015.03.17 21:46:23 (*)   Getting CPU configuration settings
+# 2015.03.17 21:46:23 (*)   Elaborating CPU configuration settings
+# 2015.03.17 21:46:23 (*)   Creating all objects for CPU
+
+# 2015.03.17 21:46:23 (*)     Testbench
+# 2015.03.17 21:46:24 (*)     Instruction decoding
+# 2015.03.17 21:46:24 (*)       Instruction fields
+# 2015.03.17 21:46:24 (*)       Instruction decodes
+# 2015.03.17 21:46:25 (*)       Signals for RTL simulation waveforms
+# 2015.03.17 21:46:25 (*)       Instruction controls
+# 2015.03.17 21:46:25 (*)     Pipeline frontend
+# 2015.03.17 21:46:25 (*)     Pipeline backend
+# 2015.03.17 21:46:28 (*)   Generating HDL from CPU objects
+# 2015.03.17 21:46:31 (*)   Creating encrypted HDL
+
+# 2015.03.17 21:46:32 (*) Done Nios II generation
+
+# 2015.03.17 21:46:33 (*) Running Generator Program for jtag_uart_0
+
+# 2015.03.17 21:46:34 (*) Running Generator Program for sdram_0
+
+# 2015.03.17 21:46:35 (*) Running Generator Program for epcs_flash_controller_0
+
+# 2015.03.17 21:46:37 (*) Running Generator Program for pio_c1_ce
+
+# 2015.03.17 21:46:38 (*) Running Generator Program for pio_c1_clk
+
+# 2015.03.17 21:46:39 (*) Running Generator Program for pio_c2_ce
+
+# 2015.03.17 21:46:40 (*) Running Generator Program for pio_c2_clk
+
+# 2015.03.17 21:46:41 (*) Running Generator Program for pio_c1_dr
+
+# 2015.03.17 21:46:42 (*) Running Generator Program for pio_c2_dr
+
+# 2015.03.17 21:46:43 (*) Running Generator Program for pio_c1_data
+
+# 2015.03.17 21:46:44 (*) Running Generator Program for pio_c2_data
+
+# 2015.03.17 21:46:45 (*) Running Generator Program for pio_c1_cs
+
+# 2015.03.17 21:46:46 (*) Running Generator Program for pio_c2_cs
+
+# 2015.03.17 21:46:47 (*) Running Generator Program for uart_usb
+
+# 2015.03.17 21:46:49 (*) Running Generator Program for sysid
+
+# 2015.03.17 21:46:50 (*) Running Generator Program for pio_led1
+
+# 2015.03.17 21:46:51 (*) Running Generator Program for pio_led2
+
+# 2015.03.17 21:46:52 (*) Running Generator Program for pio_led3
+
+# 2015.03.17 21:46:53 (*) Running Generator Program for pio_clk_24
+
+# 2015.03.17 21:46:54 (*) Running Generator Program for pio_data_24
+
+# 2015.03.17 21:46:55 (*) Running Generator Program for pio_scl_9557
+
+# 2015.03.17 21:46:56 (*) Running Generator Program for pio_sda_9557
+
+# 2015.03.17 21:46:57 (*) Running Generator Program for pio_reset_9557
+
+# 2015.03.17 21:46:58 (*) Running Generator Program for timer_watchdog
+
+# 2015.03.17 21:47:00 (*) Running Generator Program for timer_0
+
+.
+
+
+# 2015.03.17 21:47:01 (*) Running Test Generator Program for sdram_0
+
+# 2015.03.17 21:47:01 (*) Making arbitration and system (top) modules.
+
+# 2015.03.17 21:47:12 (*) Generating Quartus symbol for top level: TRANS_3
+
+# 2015.03.17 21:47:12 (*) Symbol G:/Quartus/transfer_new/TRANS_3.bsf already exists, no need to regenerate
+# 2015.03.17 21:47:12 (*) Creating command-line system-generation script: G:/Quartus/transfer_new/TRANS_3_generation_script
+
+# 2015.03.17 21:47:12 (*) Running setup for HDL simulator: modelsim
+
+
+# 2015.03.17 21:47:12 (*) Completed generation for system: TRANS_3.
+# 2015.03.17 21:47:12 (*) THE FOLLOWING SYSTEM ITEMS HAVE BEEN GENERATED:
+  SOPC Builder database : G:/Quartus/transfer_new/TRANS_3.ptf 
+  System HDL Model : G:/Quartus/transfer_new/TRANS_3.v 
+  System Generation Script : G:/Quartus/transfer_new/TRANS_3_generation_script 
+
+# 2015.03.17 21:47:12 (*) SUCCESS: SYSTEM GENERATION COMPLETED.
+
+
+Press 'Exit' to exit.

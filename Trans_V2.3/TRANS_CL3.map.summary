@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Apr 11 16:45:40 2015
+Quartus II Version : 9.1 Build 222 10/21/2009 SJ Full Version
+Revision Name : TRANS_CL3
+Top-level Entity Name : TRANS_CL3
+Family : Cyclone III
+Total logic elements : 4,901
+    Total combinational functions : 4,147
+    Dedicated logic registers : 2,692
+Total registers : 2692
+Total pins : 63
+Total virtual pins : 0
+Total memory bits : 55,424
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
